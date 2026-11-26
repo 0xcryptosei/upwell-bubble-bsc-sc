@@ -1,0 +1,13 @@
+{
+  "network": "mainnet",
+  "chainId": 56,
+  "RewardVault": "0x1F251FDF85087Cc08430e493b2c59a12859A636a",
+  "CallLedger": "0x9E6ce8f310152d222f3C082104eD630b9E8Bd138",
+  "deployer": "0xdc28De74214F892b13727ba54AfA804A5fC0a4a8",
+  "admin": "0xdc28De74214F892b13727ba54AfA804A5fC0a4a8",
+  "operator": "0xdc28De74214F892b13727ba54AfA804A5fC0a4a8",
+  "buyback": "0xdc28De74214F892b13727ba54AfA804A5fC0a4a8",
+  "ops": "0xdc28De74214F892b13727ba54AfA804A5fC0a4a8",
+  "block": 135809210,
+  "deployedAt": "2026-11-26T07:46:54.656Z"
+}
